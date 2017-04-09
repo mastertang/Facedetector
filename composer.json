@@ -1,0 +1,16 @@
+{
+  "name":             "mastertang/facedetector",
+  "description": "php 人脸识别扩展",
+  "keywords":         ["face", "facedetector","detector","php","module"],
+  "time":             "2017-4-9",
+  "license" : "MIT",
+  "authors": [{
+    "name":         "RuiHua Tang",
+    "email":        "547740900@qq.com",
+    "homepage":     "https://github.com/",
+    "role":         "Programmer"
+  }],
+  "require":{
+        "php": ">=5.3.0"
+   }
+}
